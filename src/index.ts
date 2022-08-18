@@ -1,4 +1,4 @@
-import { IPaginaHTML } from "./shared/pagina.interface.js";
+import { IPaginaHTML } from "./shared/pagina.interface";
 
 class Index implements IPaginaHTML{
   constructor(){
